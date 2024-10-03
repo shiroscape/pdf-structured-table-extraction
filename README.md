@@ -22,6 +22,6 @@ I have searched and used this extensively during my internship, dealing with med
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/pdf-table-extractor.git
+git clone https://github.com/shiroscape/pdf-table-extractor.git
 cd pdf-table-extractor
 pip install -r requirements.txt
