@@ -23,5 +23,5 @@ Clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/shiroscape/pdf-table-extractor.git
-cd pdf-table-extractor
+cd pdf-structured-table-extraction
 pip install -r requirements.txt
